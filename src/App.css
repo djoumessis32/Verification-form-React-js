@@ -20,7 +20,10 @@
   box-sizing: border-box;
   border: 5px;
 }
-
+.label{
+  color:black;
+  font-style: italic;
+}
 .title{
   color:black;
   text-align: center;
