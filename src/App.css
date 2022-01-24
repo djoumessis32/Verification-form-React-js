@@ -4,7 +4,7 @@
 }
 
 .container{
-  background: linear-gradient(135deg,#850c62, #f80759);
+  background: linear-gradient(135deg,#04eee6, #0658e6);
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -22,7 +22,7 @@
 }
 
 .title{
-  color:#f80759;
+  color:#;
   text-align: center;
   margin: 80px 0px 40px 0px;
 }
@@ -50,7 +50,7 @@
 }
 
 .error{
-  color: red;
+  color: #e09a22;
 }
 
 .submit{
@@ -60,7 +60,7 @@
   border-radius: 25px;
   color: white;
   padding: 10px 60px;
-  background: linear-gradient(to right, #ab1dcf, #f80759);
+  background: linear-gradient(to right, #1ddad3, #0658e6);
   box-shadow: rgba(0, O, O, 0.3)0px 19px 38px,
     rgba(0, O, O, 0.22)0px 15px 12px;
   margin: auto;
@@ -79,5 +79,5 @@ button:active{
   justify-content: center;
   margin-top:250px ;
   min-width: 370px;
-  color: #f80759;
+  color: #3c763d;
 }
